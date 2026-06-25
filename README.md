@@ -70,4 +70,5 @@ authentication, data flow, and trust boundaries.
 ### Contact
 
 [![Email](https://img.shields.io/badge/Email-sanzhar.tech@gmail.com-2F81F7?style=flat&logo=gmail&logoColor=white)](mailto:sanzhar.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanzhartech)
 [![GitHub](https://img.shields.io/badge/GitHub-sanzhartech-181717?style=flat&logo=github&logoColor=white)](https://github.com/sanzhartech)
