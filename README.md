@@ -16,10 +16,10 @@ applications and design the APIs behind them — with an engineering background 
 computer systems and network security that shapes how I think about
 authentication, data flow, and trust boundaries.
 
-- **Now:** Flutter Developer @ **TOO JTS GROUP** (Remote) — building *Just to Study*
+- **Experience:** Former Flutter Developer Intern at TOO JTS GROUP (Remote)
 - **Studying:** B.Sc. Computing Technology & Software — Computer Systems & Network Security
 - **Focus:** Mobile engineering · API design · Zero Trust thinking
-- **Location:** Kazakhstan · Open to remote / international roles
+- **Location:** Kazakhstan · Open to remote and international opportunities
 
 ---
 
